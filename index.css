@@ -1,0 +1,46 @@
+@import url('https://fonts.cdnfonts.com/css/cursed-timer-ulil');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: #1B244A;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    font-family: Verdana, sans-serif;
+    font-size: 40;
+    display: flex;
+    gap: 1.5em;
+}
+
+.score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    width: 155px;
+    height: 120px;
+    margin: 20px;
+    background: #080001;
+    font-size: 90px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: lighter;
+}
+
+button {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 18px;
+    background: none;
+    color: #9AABD8;
+    border-color: #9AABD8;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    border-style: solid;
+}
